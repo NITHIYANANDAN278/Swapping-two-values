@@ -28,8 +28,7 @@ a=b
 b=c
 print("Swapped values are:",a,b)
 ```
-![Screenshot 2024-03-22 092722](https://github.com/NITHIYANANDAN278/Swapping-two-values/assets/121784636/0a2c8761-da41-4725-97ac-f0800fd4c68f)
-![Screenshot 2024-03-22 092735](https://github.com/NITHIYANANDAN278/Swapping-two-values/assets/121784636/98b4512a-6134-46ec-b6cb-c3271c769dea)
+![image](https://github.com/NITHIYANANDAN278/Swapping-two-values/assets/121784636/e91c07ef-b156-4b73-8abe-911ff1b6b033)
 
 
 
